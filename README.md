@@ -6,8 +6,11 @@ Simple command line Java app allows you to convert between different units of me
 
 #Conversion Options (1-4)
 1- Kilograms to Pounds
+
 2- Decimeters to Centimeters
+
 3- Celsius to Fahrenheit
+
 4- Liters to Gallons
 
 #Instructions
